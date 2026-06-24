@@ -1,6 +1,6 @@
 # 📄 Resume Analysis Tool
 
-AI Resume Analyzer is a Python-based web application that helps users evaluate their resumes by extracting text from PDF files, detecting technical skills, calculating a Resume Strength Score, and recommending suitable job roles.
+Resume Analysis tool is a Python-based web application that helps users evaluate their resumes by extracting text from PDF files, detecting technical skills, calculating a Resume Strength Score, and recommending suitable job roles.
 
 ## 🚀 Features
 
