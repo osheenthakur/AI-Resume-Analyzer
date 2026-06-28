@@ -87,7 +87,7 @@ This project helped in understanding:
 
 Osheen Thakur
 
-B.Tech CSE Student | Aspiring Software Engineer
+B.Tech CSE Student | Aspiring Software Engineer.
 
 
 
